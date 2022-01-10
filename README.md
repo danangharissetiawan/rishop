@@ -1,0 +1,150 @@
+# Django Simple E-Commerce Website with Payment
+This is a simple e-commerce website built with Django (Python) and PayPal is added as payment processor.
+
+I've made this as a "RiShop" website but you can make any website you like.
+
+
+[Project demo](https://risset.me "Django Simple E-Commerce Website")
+
+
+And if you like this project then ADD a STAR ⭐️  to this project 👆
+
+## Features of this Project
+
+### A. Admin Users Can
+1. Manage Category (Add, Update, Filter and Delete)
+2. Manage Products (Add, Update, Filter and Delete)
+3. Manage Users (Update, Filter and Delete)
+4. Manage Orders (View and Process)
+
+### B. Non-Registered Users Can
+1. View Products (Can filter based on category)
+2. Explore Product Details and Related Products
+
+
+### C. Registered Users Can Can
+1. All ot Non-Registered Users
+2. Add to Cart
+3. Pay with PayPal or Debit/Credit Card and Order
+4. See the Order Status
+5. See Order History
+6. Update Profile 
+7. Change Password
+8. Reset Password
+
+
+## Support Developer
+1. Add a Star 🌟  to this 👆 Repository
+
+
+## Donate
+
+**[PayPal](https://bit.ly/3qaj166)**
+
+**[Buy me a Coffee  ☕️](https://www.buymeacoffee.com/mr.danang_haris)**
+
+**Donate by wire transfer:** E-Mail at *mr.danangharissetiawan@gmail.com* for wire transfer details. 
+
+
+## How to Install and Run this project?
+
+### Pre-Requisites:
+1. Install [Git Version Control]( https://git-scm.com/ )
+
+2. Install [Python Latest Version](https://www.python.org/downloads/) 
+
+3. Install Pip [Package Manager](https://pip.pypa.io/en/stable/installing/)
+
+*Alternative to Pip is Homebrew*
+
+### Installation
+**1. Create a Folder where you want to save the project**
+
+**2. Create a Virtual Environment and Activate**
+
+Install Virtual Environment First
+```shell
+$  pip install virtualenv
+```
+
+Create Virtual Environment
+
+For Windows
+```shell
+$  python -m venv venv
+```
+For Mac
+```shell
+$  python3 -m venv venv
+```
+
+Activate Virtual Environment
+
+For Windows
+```shell
+$  source venv/scripts/activate
+```
+
+For Mac
+```shell
+$  source venv/bin/activate
+```
+
+**3. Clone this project**
+```shell
+$  git clone https://github.com/danangharissetiawan/rishop.git
+```
+
+Then, Enter the project
+```shell
+$  cd rishop
+```
+
+**4. Install Requirements from 'requirements.txt'**
+```shell
+$  pip install -r requirements.txt
+```
+
+**5. Add the hosts**
+
+- Got to settings.py file 
+- Then, On allowed hosts, Add [‘*’]. 
+```python
+ALLOWED_HOSTS = ['*']
+```
+*No need to change on Mac.*
+
+
+**6. Now Run Server**
+
+Command for PC:
+```shell
+$ python manage.py runserver
+```
+
+Command for Mac:
+```shell
+$ python3 manage.py runserver
+```
+
+**7. Login Credentials**
+
+Create Super User (Admin)
+
+Command for PC:
+```shell
+$  python manage.py createsuperuser
+```
+
+Command for MAC:
+```shell
+$  python3 manage.py createsuperuser
+```
+Then Add Email, Username and Password
+
+
+
+## For Sponsor or Projects Enquiry
+1. Email - mr.danangharissetiawan@gmail.com
+2. LinkedIn - [Danang Haris S](https://www.linkedin.com/in/mr.danang_haris "Danang Haris Setiawan")
+
