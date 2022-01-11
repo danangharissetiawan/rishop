@@ -1,0 +1,38 @@
+[
+{
+    "model": "store.order",
+    "pk": 1,
+    "fields": {
+        "user": 1,
+        "address": 1,
+        "product": 15,
+        "quantity": 1,
+        "ordered_date": "2022-01-09T05:23:23.623Z",
+        "status": "Pending"
+    }
+},
+{
+    "model": "store.order",
+    "pk": 2,
+    "fields": {
+        "user": 1,
+        "address": 1,
+        "product": 17,
+        "quantity": 1,
+        "ordered_date": "2022-01-11T03:07:26.677Z",
+        "status": "Pending"
+    }
+},
+{
+    "model": "store.order",
+    "pk": 3,
+    "fields": {
+        "user": 1,
+        "address": 1,
+        "product": 13,
+        "quantity": 1,
+        "ordered_date": "2022-01-11T03:07:26.693Z",
+        "status": "Pending"
+    }
+}
+]

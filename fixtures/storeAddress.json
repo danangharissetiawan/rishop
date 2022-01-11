@@ -1,0 +1,12 @@
+[
+{
+    "model": "store.address",
+    "pk": 1,
+    "fields": {
+        "user": 1,
+        "locality": "Desa Gemulung RT 004/RW 001 Kec. Kerek",
+        "city": "Tuban",
+        "state": "East Java"
+    }
+}
+]

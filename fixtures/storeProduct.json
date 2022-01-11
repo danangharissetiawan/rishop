@@ -1,0 +1,326 @@
+[
+{
+    "model": "store.product",
+    "pk": 1,
+    "fields": {
+        "title": "Soft Black Sneaker",
+        "slug": "soft-black-sneaker",
+        "sku": "sbs122",
+        "short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis risus ipsum, eu bibendum ex dapibus id. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus",
+        "detail_description": "Vestibulum ut venenatis felis. Suspendisse tristique eu ex nec bibendum. Phasellus ornare tristique lobortis. Suspendisse nec sem id massa semper pretium ut in odio. Sed vel purus in turpis vehicula commodo a nec magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque pellentesque sodales metus vitae aliquet. Phasellus at leo nec urna euismod vulputate. Phasellus lorem dolor, porta sit amet efficitur pellentesque, egestas efficitur ipsum. Fusce gravida lectus non iaculis sollicitudin. Integer pretium elit a elit venenatis egestas.\r\n\r\nFusce at mauris non mi fermentum mollis a finibus lorem. Praesent sodales eget odio id cursus. Fusce sed ante commodo, convallis arcu et, pellentesque sem. Donec nunc odio, aliquet quis suscipit a, finibus non ante. Proin id porttitor sapien. Sed hendrerit placerat orci eget consectetur. Quisque in eros sit amet velit tincidunt semper in id ligula. Sed dignissim risus ac tellus semper commodo. Nulla porttitor magna ut odio dignissim, ut luctus mauris feugiat. Cras ultrices suscipit velit, non congue erat hendrerit eu.",
+        "product_image": "product/right-foot-all-black-sneaker.jpg",
+        "price": "75.00",
+        "category": 1,
+        "is_active": true,
+        "is_featured": true,
+        "created_at": "2022-01-09T04:51:19.575Z",
+        "updated_at": "2022-01-09T05:20:31.292Z"
+    }
+},
+{
+    "model": "store.product",
+    "pk": 2,
+    "fields": {
+        "title": "red LED shoes",
+        "slug": "red-led-shoes",
+        "sku": "rls34",
+        "short_description": "Sed hendrerit placerat orci eget consectetur. Quisque in eros sit amet velit tincidunt semper in id ligula. Sed dignissim risus ac tellus semper commodo. Nulla porttitor magna ut odio dignissim, ut luctus mauris feugiat. Cras ultrices suscipit velit, non congue erat hendrerit eu.",
+        "detail_description": "Vestibulum ut venenatis felis. Suspendisse tristique eu ex nec bibendum. Phasellus ornare tristique lobortis. Suspendisse nec sem id massa semper pretium ut in odio. Sed vel purus in turpis vehicula commodo a nec magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque pellentesque sodales metus vitae aliquet. Phasellus at leo nec urna euismod vulputate. Phasellus lorem dolor, porta sit amet efficitur pellentesque, egestas efficitur ipsum. Fusce gravida lectus non iaculis sollicitudin. Integer pretium elit a elit venenatis egestas.\r\n\r\nFusce at mauris non mi fermentum mollis a finibus lorem. Praesent sodales eget odio id cursus. Fusce sed ante commodo, convallis arcu et, pellentesque sem. Donec nunc odio, aliquet quis suscipit a, finibus non ante. Proin id porttitor sapien. Sed hendrerit placerat orci eget consectetur. Quisque in eros sit amet velit tincidunt semper in id ligula. Sed dignissim risus ac tellus semper commodo. Nulla porttitor magna ut odio dignissim, ut luctus mauris feugiat. Cras ultrices suscipit velit, non congue erat hendrerit eu.",
+        "product_image": "product/red-LED-shoes.jpg",
+        "price": "50.00",
+        "category": 1,
+        "is_active": true,
+        "is_featured": true,
+        "created_at": "2022-01-09T04:52:18.675Z",
+        "updated_at": "2022-01-09T05:20:31.285Z"
+    }
+},
+{
+    "model": "store.product",
+    "pk": 3,
+    "fields": {
+        "title": "pair of navy blue skate shoes",
+        "slug": "pair-of-navy-blue-skate-shoes",
+        "sku": "pofnbs334",
+        "short_description": "Fusce at mauris non mi fermentum mollis a finibus lorem. Praesent sodales eget odio id cursus. Fusce sed ante commodo, convallis arcu et, pellentesque sem. Donec nunc odio, aliquet quis suscipit a, finibus non ante. Proin id porttitor sapien.",
+        "detail_description": "Vestibulum ut venenatis felis. Suspendisse tristique eu ex nec bibendum. Phasellus ornare tristique lobortis. Suspendisse nec sem id massa semper pretium ut in odio. Sed vel purus in turpis vehicula commodo a nec magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque pellentesque sodales metus vitae aliquet. Phasellus at leo nec urna euismod vulputate. Phasellus lorem dolor, porta sit amet efficitur pellentesque, egestas efficitur ipsum. Fusce gravida lectus non iaculis sollicitudin. Integer pretium elit a elit venenatis egestas.\r\n\r\nFusce at mauris non mi fermentum mollis a finibus lorem. Praesent sodales eget odio id cursus. Fusce sed ante commodo, convallis arcu et, pellentesque sem. Donec nunc odio, aliquet quis suscipit a, finibus non ante. Proin id porttitor sapien. Sed hendrerit placerat orci eget consectetur. Quisque in eros sit amet velit tincidunt semper in id ligula. Sed dignissim risus ac tellus semper commodo. Nulla porttitor magna ut odio dignissim, ut luctus mauris feugiat. Cras ultrices suscipit velit, non congue erat hendrerit eu.",
+        "product_image": "product/pair-of-navy-blue-skate-shoes.jpg",
+        "price": "55.00",
+        "category": 1,
+        "is_active": true,
+        "is_featured": true,
+        "created_at": "2022-01-09T04:53:31.650Z",
+        "updated_at": "2022-01-09T05:20:31.278Z"
+    }
+},
+{
+    "model": "store.product",
+    "pk": 4,
+    "fields": {
+        "title": "Heels Clean Black Shoes",
+        "slug": "heels-clean-black-shoes",
+        "sku": "sdf22",
+        "short_description": "Sed dignissim risus ac tellus semper commodo. Nulla porttitor magna ut odio dignissim, ut luctus mauris feugiat. Cras ultrices suscipit velit, non congue erat hendrerit eu.",
+        "detail_description": "Vestibulum ut venenatis felis. Suspendisse tristique eu ex nec bibendum. Phasellus ornare tristique lobortis. Suspendisse nec sem id massa semper pretium ut in odio. Sed vel purus in turpis vehicula commodo a nec magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque pellentesque sodales metus vitae aliquet. Phasellus at leo nec urna euismod vulputate. Phasellus lorem dolor, porta sit amet efficitur pellentesque, egestas efficitur ipsum. Fusce gravida lectus non iaculis sollicitudin. Integer pretium elit a elit venenatis egestas.\r\n\r\nFusce at mauris non mi fermentum mollis a finibus lorem. Praesent sodales eget odio id cursus. Fusce sed ante commodo, convallis arcu et, pellentesque sem. Donec nunc odio, aliquet quis suscipit a, finibus non ante. Proin id porttitor sapien. Sed hendrerit placerat orci eget consectetur. Quisque in eros sit amet velit tincidunt semper in id ligula. Sed dignissim risus ac tellus semper commodo. Nulla porttitor magna ut odio dignissim, ut luctus mauris feugiat. Cras ultrices suscipit velit, non congue erat hendrerit eu.",
+        "product_image": "product/heels-and-flowers.jpg",
+        "price": "100.00",
+        "category": 1,
+        "is_active": true,
+        "is_featured": true,
+        "created_at": "2022-01-09T04:54:51.941Z",
+        "updated_at": "2022-01-09T05:20:31.267Z"
+    }
+},
+{
+    "model": "store.product",
+    "pk": 5,
+    "fields": {
+        "title": "fashionable black and white sneakers",
+        "slug": "fashionable-black-and-white-sneakers",
+        "sku": "asdas22",
+        "short_description": "Fusce at mauris non mi fermentum mollis a finibus lorem. Praesent sodales eget odio id cursus. Fusce sed ante commodo, convallis arcu et",
+        "detail_description": "Vestibulum ut venenatis felis. Suspendisse tristique eu ex nec bibendum. Phasellus ornare tristique lobortis. Suspendisse nec sem id massa semper pretium ut in odio. Sed vel purus in turpis vehicula commodo a nec magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque pellentesque sodales metus vitae aliquet. Phasellus at leo nec urna euismod vulputate. Phasellus lorem dolor, porta sit amet efficitur pellentesque, egestas efficitur ipsum. Fusce gravida lectus non iaculis sollicitudin. Integer pretium elit a elit venenatis egestas.\r\n\r\nFusce at mauris non mi fermentum mollis a finibus lorem. Praesent sodales eget odio id cursus. Fusce sed ante commodo, convallis arcu et, pellentesque sem. Donec nunc odio, aliquet quis suscipit a, finibus non ante. Proin id porttitor sapien. Sed hendrerit placerat orci eget consectetur. Quisque in eros sit amet velit tincidunt semper in id ligula. Sed dignissim risus ac tellus semper commodo. Nulla porttitor magna ut odio dignissim, ut luctus mauris feugiat. Cras ultrices suscipit velit, non congue erat hendrerit eu.",
+        "product_image": "product/fashionable-black-and-white-sneakers.jpg",
+        "price": "150.00",
+        "category": 1,
+        "is_active": true,
+        "is_featured": true,
+        "created_at": "2022-01-09T04:56:14.074Z",
+        "updated_at": "2022-01-09T05:20:56.530Z"
+    }
+},
+{
+    "model": "store.product",
+    "pk": 6,
+    "fields": {
+        "title": "black sneakers with white sole",
+        "slug": "black-sneakers-with-white-sole",
+        "sku": "er322",
+        "short_description": "Vestibulum ut venenatis felis. Suspendisse tristique eu ex nec bibendum. Phasellus ornare tristique lobortis. Suspendisse nec sem id massa semper pretium ut in odio. Sed vel purus in turpis vehicula commodo a nec magna.",
+        "detail_description": "Vestibulum ut venenatis felis. Suspendisse tristique eu ex nec bibendum. Phasellus ornare tristique lobortis. Suspendisse nec sem id massa semper pretium ut in odio. Sed vel purus in turpis vehicula commodo a nec magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque pellentesque sodales metus vitae aliquet. Phasellus at leo nec urna euismod vulputate. Phasellus lorem dolor, porta sit amet efficitur pellentesque, egestas efficitur ipsum. Fusce gravida lectus non iaculis sollicitudin. Integer pretium elit a elit venenatis egestas.\r\n\r\nFusce at mauris non mi fermentum mollis a finibus lorem. Praesent sodales eget odio id cursus. Fusce sed ante commodo, convallis arcu et, pellentesque sem. Donec nunc odio, aliquet quis suscipit a, finibus non ante. Proin id porttitor sapien. Sed hendrerit placerat orci eget consectetur. Quisque in eros sit amet velit tincidunt semper in id ligula. Sed dignissim risus ac tellus semper commodo. Nulla porttitor magna ut odio dignissim, ut luctus mauris feugiat. Cras ultrices suscipit velit, non congue erat hendrerit eu.",
+        "product_image": "product/black-sneakers-with-white-sole.jpg",
+        "price": "80.00",
+        "category": 1,
+        "is_active": true,
+        "is_featured": true,
+        "created_at": "2022-01-09T04:57:17.404Z",
+        "updated_at": "2022-01-09T05:20:56.520Z"
+    }
+},
+{
+    "model": "store.product",
+    "pk": 7,
+    "fields": {
+        "title": "Anne Klein Gold Watch",
+        "slug": "anne-klein-gold-watch",
+        "sku": "aak221",
+        "short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis risus ipsum, eu bibendum ex dapibus id. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus varius augue dui, vitae eleifend lectus efficitur at. Pellentesque quis justo sapien. Nulla facilisis at leo fermentum bibendum.",
+        "detail_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis risus ipsum, eu bibendum ex dapibus id. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus varius augue dui, vitae eleifend lectus efficitur at. Pellentesque quis justo sapien. Nulla facilisis at leo fermentum bibendum. Donec ornare enim nisl, eget mollis ante elementum sed. Sed congue tellus quis fringilla pharetra. Nulla a malesuada dolor. Integer eget sem augue. Vestibulum scelerisque nibh nec odio scelerisque, non vestibulum odio malesuada. Nunc rhoncus semper tortor eu vestibulum. Duis efficitur purus nec efficitur condimentum. Duis viverra, mauris eget pulvinar rutrum, elit velit bibendum massa, vel sollicitudin metus risus quis risus.\r\n\r\nVestibulum ut venenatis felis. Suspendisse tristique eu ex nec bibendum. Phasellus ornare tristique lobortis. Suspendisse nec sem id massa semper pretium ut in odio. Sed vel purus in turpis vehicula commodo a nec magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque pellentesque sodales metus vitae aliquet. Phasellus at leo nec urna euismod vulputate. Phasellus lorem dolor, porta sit amet efficitur pellentesque, egestas efficitur ipsum. Fusce gravida lectus non iaculis sollicitudin. Integer pretium elit a elit venenatis egestas.",
+        "product_image": "product/Anne-Klein-Gold-Watch_8hFHvJB.jpg",
+        "price": "200.00",
+        "category": 2,
+        "is_active": true,
+        "is_featured": false,
+        "created_at": "2022-01-09T05:04:29.340Z",
+        "updated_at": "2022-01-09T05:21:26.138Z"
+    }
+},
+{
+    "model": "store.product",
+    "pk": 8,
+    "fields": {
+        "title": "gold and diamond ring",
+        "slug": "gold-and-diamond-ring",
+        "sku": "wer33",
+        "short_description": "Phasellus at leo nec urna euismod vulputate. Phasellus lorem dolor, porta sit amet efficitur pellentesque, egestas efficitur ipsum. Fusce gravida lectus non iaculis sollicitudin. Integer pretium elit a elit venenatis egestas.",
+        "detail_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis risus ipsum, eu bibendum ex dapibus id. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus varius augue dui, vitae eleifend lectus efficitur at. Pellentesque quis justo sapien. Nulla facilisis at leo fermentum bibendum. Donec ornare enim nisl, eget mollis ante elementum sed. Sed congue tellus quis fringilla pharetra. Nulla a malesuada dolor. Integer eget sem augue. Vestibulum scelerisque nibh nec odio scelerisque, non vestibulum odio malesuada. Nunc rhoncus semper tortor eu vestibulum. Duis efficitur purus nec efficitur condimentum. Duis viverra, mauris eget pulvinar rutrum, elit velit bibendum massa, vel sollicitudin metus risus quis risus.\r\n\r\nVestibulum ut venenatis felis. Suspendisse tristique eu ex nec bibendum. Phasellus ornare tristique lobortis. Suspendisse nec sem id massa semper pretium ut in odio. Sed vel purus in turpis vehicula commodo a nec magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque pellentesque sodales metus vitae aliquet. Phasellus at leo nec urna euismod vulputate. Phasellus lorem dolor, porta sit amet efficitur pellentesque, egestas efficitur ipsum. Fusce gravida lectus non iaculis sollicitudin. Integer pretium elit a elit venenatis egestas.",
+        "product_image": "product/gold-and-diamond-ring_E9i6UWt.jpg",
+        "price": "350.00",
+        "category": 3,
+        "is_active": true,
+        "is_featured": false,
+        "created_at": "2022-01-09T05:05:35.787Z",
+        "updated_at": "2022-01-09T05:21:26.125Z"
+    }
+},
+{
+    "model": "store.product",
+    "pk": 9,
+    "fields": {
+        "title": "Gold and Steel Rado Watch with Black Dial",
+        "slug": "gold-and-steel-rado-watch-with-black-dial",
+        "sku": "234f3f",
+        "short_description": "Phasellus at leo nec urna euismod vulputate. Phasellus lorem dolor, porta sit amet efficitur pellentesque, egestas efficitur ipsum. Fusce gravida lectus non iaculis sollicitudin. Integer pretium elit a elit venenatis egestas.",
+        "detail_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis risus ipsum, eu bibendum ex dapibus id. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus varius augue dui, vitae eleifend lectus efficitur at. Pellentesque quis justo sapien. Nulla facilisis at leo fermentum bibendum. Donec ornare enim nisl, eget mollis ante elementum sed. Sed congue tellus quis fringilla pharetra. Nulla a malesuada dolor. Integer eget sem augue. Vestibulum scelerisque nibh nec odio scelerisque, non vestibulum odio malesuada. Nunc rhoncus semper tortor eu vestibulum. Duis efficitur purus nec efficitur condimentum. Duis viverra, mauris eget pulvinar rutrum, elit velit bibendum massa, vel sollicitudin metus risus quis risus.\r\n\r\nVestibulum ut venenatis felis. Suspendisse tristique eu ex nec bibendum. Phasellus ornare tristique lobortis. Suspendisse nec sem id massa semper pretium ut in odio. Sed vel purus in turpis vehicula commodo a nec magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque pellentesque sodales metus vitae aliquet. Phasellus at leo nec urna euismod vulputate. Phasellus lorem dolor, porta sit amet efficitur pellentesque, egestas efficitur ipsum. Fusce gravida lectus non iaculis sollicitudin. Integer pretium elit a elit venenatis egestas.",
+        "product_image": "product/Gold-and-Steel-Rado-Watch-with-Black-Dial_wPI9mmw.jpg",
+        "price": "250.00",
+        "category": 2,
+        "is_active": true,
+        "is_featured": false,
+        "created_at": "2022-01-09T05:06:48.763Z",
+        "updated_at": "2022-01-09T05:06:48.763Z"
+    }
+},
+{
+    "model": "store.product",
+    "pk": 10,
+    "fields": {
+        "title": "Gold Casio Touch Watch",
+        "slug": "gold-casio-touch-watch",
+        "sku": "2f3ef3",
+        "short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis risus ipsum, eu bibendum ex dapibus id. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus varius augue dui, vitae eleifend lectus efficitur at.",
+        "detail_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis risus ipsum, eu bibendum ex dapibus id. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus varius augue dui, vitae eleifend lectus efficitur at. Pellentesque quis justo sapien. Nulla facilisis at leo fermentum bibendum. Donec ornare enim nisl, eget mollis ante elementum sed. Sed congue tellus quis fringilla pharetra. Nulla a malesuada dolor. Integer eget sem augue. Vestibulum scelerisque nibh nec odio scelerisque, non vestibulum odio malesuada. Nunc rhoncus semper tortor eu vestibulum. Duis efficitur purus nec efficitur condimentum. Duis viverra, mauris eget pulvinar rutrum, elit velit bibendum massa, vel sollicitudin metus risus quis risus.\r\n\r\nVestibulum ut venenatis felis. Suspendisse tristique eu ex nec bibendum. Phasellus ornare tristique lobortis. Suspendisse nec sem id massa semper pretium ut in odio. Sed vel purus in turpis vehicula commodo a nec magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque pellentesque sodales metus vitae aliquet. Phasellus at leo nec urna euismod vulputate. Phasellus lorem dolor, porta sit amet efficitur pellentesque, egestas efficitur ipsum. Fusce gravida lectus non iaculis sollicitudin. Integer pretium elit a elit venenatis egestas.",
+        "product_image": "product/Gold-Casio-Touch-Watch_xgJTzud.jpg",
+        "price": "600.00",
+        "category": 2,
+        "is_active": true,
+        "is_featured": false,
+        "created_at": "2022-01-09T05:07:36.733Z",
+        "updated_at": "2022-01-09T05:07:36.733Z"
+    }
+},
+{
+    "model": "store.product",
+    "pk": 11,
+    "fields": {
+        "title": "Gold ring with pink stone and diamonds",
+        "slug": "gold-ring-with-pink-stone-and-diamonds",
+        "sku": "34rfff",
+        "short_description": "Phasellus lorem dolor, porta sit amet efficitur pellentesque, egestas efficitur ipsum. Fusce gravida lectus non iaculis sollicitudin. Integer pretium elit a elit venenatis egestas.",
+        "detail_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis risus ipsum, eu bibendum ex dapibus id. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus varius augue dui, vitae eleifend lectus efficitur at. Pellentesque quis justo sapien. Nulla facilisis at leo fermentum bibendum. Donec ornare enim nisl, eget mollis ante elementum sed. Sed congue tellus quis fringilla pharetra. Nulla a malesuada dolor. Integer eget sem augue. Vestibulum scelerisque nibh nec odio scelerisque, non vestibulum odio malesuada. Nunc rhoncus semper tortor eu vestibulum. Duis efficitur purus nec efficitur condimentum. Duis viverra, mauris eget pulvinar rutrum, elit velit bibendum massa, vel sollicitudin metus risus quis risus.\r\n\r\nVestibulum ut venenatis felis. Suspendisse tristique eu ex nec bibendum. Phasellus ornare tristique lobortis. Suspendisse nec sem id massa semper pretium ut in odio. Sed vel purus in turpis vehicula commodo a nec magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque pellentesque sodales metus vitae aliquet. Phasellus at leo nec urna euismod vulputate. Phasellus lorem dolor, porta sit amet efficitur pellentesque, egestas efficitur ipsum. Fusce gravida lectus non iaculis sollicitudin. Integer pretium elit a elit venenatis egestas.",
+        "product_image": "product/Gold-ring-with-pink-stone-and-diamonds_yCpLjai.jpg",
+        "price": "500.00",
+        "category": 3,
+        "is_active": true,
+        "is_featured": false,
+        "created_at": "2022-01-09T05:12:23.259Z",
+        "updated_at": "2022-01-09T05:12:23.259Z"
+    }
+},
+{
+    "model": "store.product",
+    "pk": 12,
+    "fields": {
+        "title": "Gold Ring with Blue Stones",
+        "slug": "gold-ring-with-blue-stones",
+        "sku": "dfdsf3e3",
+        "short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis risus ipsum, eu bibendum ex dapibus id. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus varius augue dui,",
+        "detail_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis risus ipsum, eu bibendum ex dapibus id. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus varius augue dui, vitae eleifend lectus efficitur at. Pellentesque quis justo sapien. Nulla facilisis at leo fermentum bibendum. Donec ornare enim nisl, eget mollis ante elementum sed. Sed congue tellus quis fringilla pharetra. Nulla a malesuada dolor. Integer eget sem augue. Vestibulum scelerisque nibh nec odio scelerisque, non vestibulum odio malesuada. Nunc rhoncus semper tortor eu vestibulum. Duis efficitur purus nec efficitur condimentum. Duis viverra, mauris eget pulvinar rutrum, elit velit bibendum massa, vel sollicitudin metus risus quis risus.\r\n\r\nVestibulum ut venenatis felis. Suspendisse tristique eu ex nec bibendum. Phasellus ornare tristique lobortis. Suspendisse nec sem id massa semper pretium ut in odio. Sed vel purus in turpis vehicula commodo a nec magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque pellentesque sodales metus vitae aliquet. Phasellus at leo nec urna euismod vulputate. Phasellus lorem dolor, porta sit amet efficitur pellentesque, egestas efficitur ipsum. Fusce gravida lectus non iaculis sollicitudin. Integer pretium elit a elit venenatis egestas.",
+        "product_image": "product/Gold-Ring-with-Blue-Stones_27bFRlL.jpg",
+        "price": "450.00",
+        "category": 3,
+        "is_active": true,
+        "is_featured": false,
+        "created_at": "2022-01-09T05:13:10.812Z",
+        "updated_at": "2022-01-09T05:13:10.812Z"
+    }
+},
+{
+    "model": "store.product",
+    "pk": 13,
+    "fields": {
+        "title": "Gold Ring with White Stone",
+        "slug": "gold-ring-with-white-stone",
+        "sku": "dfdf3e",
+        "short_description": "Vestibulum ut venenatis felis. Suspendisse tristique eu ex nec bibendum. Phasellus ornare tristique lobortis. Suspendisse nec sem id massa semper pretium ut in odio.",
+        "detail_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis risus ipsum, eu bibendum ex dapibus id. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus varius augue dui, vitae eleifend lectus efficitur at. Pellentesque quis justo sapien. Nulla facilisis at leo fermentum bibendum. Donec ornare enim nisl, eget mollis ante elementum sed. Sed congue tellus quis fringilla pharetra. Nulla a malesuada dolor. Integer eget sem augue. Vestibulum scelerisque nibh nec odio scelerisque, non vestibulum odio malesuada. Nunc rhoncus semper tortor eu vestibulum. Duis efficitur purus nec efficitur condimentum. Duis viverra, mauris eget pulvinar rutrum, elit velit bibendum massa, vel sollicitudin metus risus quis risus.\r\n\r\nVestibulum ut venenatis felis. Suspendisse tristique eu ex nec bibendum. Phasellus ornare tristique lobortis. Suspendisse nec sem id massa semper pretium ut in odio. Sed vel purus in turpis vehicula commodo a nec magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque pellentesque sodales metus vitae aliquet. Phasellus at leo nec urna euismod vulputate. Phasellus lorem dolor, porta sit amet efficitur pellentesque, egestas efficitur ipsum. Fusce gravida lectus non iaculis sollicitudin. Integer pretium elit a elit venenatis egestas.",
+        "product_image": "product/Gold-Ring-with-White-Stone_WEGVQMQ.jpg",
+        "price": "475.00",
+        "category": 3,
+        "is_active": true,
+        "is_featured": false,
+        "created_at": "2022-01-09T05:13:58.451Z",
+        "updated_at": "2022-01-09T05:13:58.451Z"
+    }
+},
+{
+    "model": "store.product",
+    "pk": 14,
+    "fields": {
+        "title": "platinum ring with diamonds",
+        "slug": "platinum-ring-with-diamonds",
+        "sku": "3fefef",
+        "short_description": "Pellentesque pellentesque sodales metus vitae aliquet. Phasellus at leo nec urna euismod vulputate. Phasellus lorem dolor, porta sit amet efficitur pellentesque, egestas efficitur ipsum. Fusce gravida lectus non iaculis sollicitudin. Integer pretium elit a elit venenatis egestas.",
+        "detail_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis risus ipsum, eu bibendum ex dapibus id. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus varius augue dui, vitae eleifend lectus efficitur at. Pellentesque quis justo sapien. Nulla facilisis at leo fermentum bibendum. Donec ornare enim nisl, eget mollis ante elementum sed. Sed congue tellus quis fringilla pharetra. Nulla a malesuada dolor. Integer eget sem augue. Vestibulum scelerisque nibh nec odio scelerisque, non vestibulum odio malesuada. Nunc rhoncus semper tortor eu vestibulum. Duis efficitur purus nec efficitur condimentum. Duis viverra, mauris eget pulvinar rutrum, elit velit bibendum massa, vel sollicitudin metus risus quis risus.\r\n\r\nVestibulum ut venenatis felis. Suspendisse tristique eu ex nec bibendum. Phasellus ornare tristique lobortis. Suspendisse nec sem id massa semper pretium ut in odio. Sed vel purus in turpis vehicula commodo a nec magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque pellentesque sodales metus vitae aliquet. Phasellus at leo nec urna euismod vulputate. Phasellus lorem dolor, porta sit amet efficitur pellentesque, egestas efficitur ipsum. Fusce gravida lectus non iaculis sollicitudin. Integer pretium elit a elit venenatis egestas.",
+        "product_image": "product/platinum-ring-with-diamonds_FjXCX64.jpg",
+        "price": "600.00",
+        "category": 3,
+        "is_active": true,
+        "is_featured": false,
+        "created_at": "2022-01-09T05:14:39.298Z",
+        "updated_at": "2022-01-09T05:14:39.298Z"
+    }
+},
+{
+    "model": "store.product",
+    "pk": 15,
+    "fields": {
+        "title": "Black minimalist T-shirt",
+        "slug": "black-minimalist-t-shirt",
+        "sku": "er235r",
+        "short_description": "Phasellus at leo nec urna euismod vulputate. Phasellus lorem dolor, porta sit amet efficitur pellentesque, egestas efficitur ipsum. Fusce gravida lectus non iaculis sollicitudin. Integer pretium elit a elit venenatis egestas.",
+        "detail_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis risus ipsum, eu bibendum ex dapibus id. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus varius augue dui, vitae eleifend lectus efficitur at. Pellentesque quis justo sapien. Nulla facilisis at leo fermentum bibendum. Donec ornare enim nisl, eget mollis ante elementum sed. Sed congue tellus quis fringilla pharetra. Nulla a malesuada dolor. Integer eget sem augue. Vestibulum scelerisque nibh nec odio scelerisque, non vestibulum odio malesuada. Nunc rhoncus semper tortor eu vestibulum. Duis efficitur purus nec efficitur condimentum. Duis viverra, mauris eget pulvinar rutrum, elit velit bibendum massa, vel sollicitudin metus risus quis risus.\r\n\r\nVestibulum ut venenatis felis. Suspendisse tristique eu ex nec bibendum. Phasellus ornare tristique lobortis. Suspendisse nec sem id massa semper pretium ut in odio. Sed vel purus in turpis vehicula commodo a nec magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque pellentesque sodales metus vitae aliquet. Phasellus at leo nec urna euismod vulputate. Phasellus lorem dolor, porta sit amet efficitur pellentesque, egestas efficitur ipsum. Fusce gravida lectus non iaculis sollicitudin. Integer pretium elit a elit venenatis egestas.",
+        "product_image": "product/mockup-featuring-a-customizable-t-shirt-on-a-mannequin-3704-el1_1.png",
+        "price": "100.00",
+        "category": 4,
+        "is_active": true,
+        "is_featured": true,
+        "created_at": "2022-01-09T05:17:09.877Z",
+        "updated_at": "2022-01-09T05:17:09.877Z"
+    }
+},
+{
+    "model": "store.product",
+    "pk": 16,
+    "fields": {
+        "title": "Minimalist like Supreme tshirt",
+        "slug": "minimalist-like-supreme-tshirt",
+        "sku": "3r343f",
+        "short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis risus ipsum, eu bibendum ex dapibus id. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus varius augue dui, vitae eleifend lectus efficitur at. Pellentesque quis justo sapien. Nulla facilisis at leo fermentum bibendum.",
+        "detail_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis risus ipsum, eu bibendum ex dapibus id. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus varius augue dui, vitae eleifend lectus efficitur at. Pellentesque quis justo sapien. Nulla facilisis at leo fermentum bibendum. Donec ornare enim nisl, eget mollis ante elementum sed. Sed congue tellus quis fringilla pharetra. Nulla a malesuada dolor. Integer eget sem augue. Vestibulum scelerisque nibh nec odio scelerisque, non vestibulum odio malesuada. Nunc rhoncus semper tortor eu vestibulum. Duis efficitur purus nec efficitur condimentum. Duis viverra, mauris eget pulvinar rutrum, elit velit bibendum massa, vel sollicitudin metus risus quis risus.\r\n\r\nVestibulum ut venenatis felis. Suspendisse tristique eu ex nec bibendum. Phasellus ornare tristique lobortis. Suspendisse nec sem id massa semper pretium ut in odio. Sed vel purus in turpis vehicula commodo a nec magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque pellentesque sodales metus vitae aliquet. Phasellus at leo nec urna euismod vulputate. Phasellus lorem dolor, porta sit amet efficitur pellentesque, egestas efficitur ipsum. Fusce gravida lectus non iaculis sollicitudin. Integer pretium elit a elit venenatis egestas.",
+        "product_image": "product/mockup-featuring-a-customizable-t-shirt-on-a-mannequin-3704-el1_1_Yvys9Oj.png",
+        "price": "100.00",
+        "category": 4,
+        "is_active": true,
+        "is_featured": false,
+        "created_at": "2022-01-09T05:18:02.983Z",
+        "updated_at": "2022-01-09T05:18:02.983Z"
+    }
+},
+{
+    "model": "store.product",
+    "pk": 17,
+    "fields": {
+        "title": "Nan Pi Ho Jiean",
+        "slug": "nan-pi-ho-jiean",
+        "sku": "sdf34r",
+        "short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis risus ipsum, eu bibendum ex dapibus id. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus varius augue dui, vitae eleifend lectus efficitur at. Pellentesque quis justo sapien. Nulla facilisis at leo fermentum bibendum. Donec ornare enim nisl, eget mollis ante elementum sed. Sed congue tellus quis fringilla pharetra. Nulla a malesuada dolor. Integer eget sem augue. Vestibulum scelerisque nibh nec odio scelerisque, non vestibulum odio malesuada. Nunc rhoncus semper tortor eu vestibulum. Duis efficitur purus nec efficitur condimentum. Duis viverra, mauris eget pulvinar rutrum, elit velit bibendum massa, vel sollicitudin metus risus quis risus.\r\n\r\nVestibulum ut venenatis felis. Suspendisse tristique eu ex nec bibendum. Phasellus ornare tristique lobortis. Suspendisse nec sem id massa semper pretium ut in odio. Sed vel purus in turpis vehicula commodo a nec magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque pellentesque sodales metus vitae aliquet. Phasellus at leo nec urna euismod vulputate. Phasellus lorem dolor, porta sit amet efficitur pellentesque, egestas efficitur ipsum. Fusce gravida lectus non iaculis sollicitudin. Integer pretium elit a elit venenatis egestas.",
+        "detail_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis risus ipsum, eu bibendum ex dapibus id. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus varius augue dui, vitae eleifend lectus efficitur at. Pellentesque quis justo sapien. Nulla facilisis at leo fermentum bibendum. Donec ornare enim nisl, eget mollis ante elementum sed. Sed congue tellus quis fringilla pharetra. Nulla a malesuada dolor. Integer eget sem augue. Vestibulum scelerisque nibh nec odio scelerisque, non vestibulum odio malesuada. Nunc rhoncus semper tortor eu vestibulum. Duis efficitur purus nec efficitur condimentum. Duis viverra, mauris eget pulvinar rutrum, elit velit bibendum massa, vel sollicitudin metus risus quis risus.\r\n\r\nVestibulum ut venenatis felis. Suspendisse tristique eu ex nec bibendum. Phasellus ornare tristique lobortis. Suspendisse nec sem id massa semper pretium ut in odio. Sed vel purus in turpis vehicula commodo a nec magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque pellentesque sodales metus vitae aliquet. Phasellus at leo nec urna euismod vulputate. Phasellus lorem dolor, porta sit amet efficitur pellentesque, egestas efficitur ipsum. Fusce gravida lectus non iaculis sollicitudin. Integer pretium elit a elit venenatis egestas.",
+        "product_image": "product/mockup-featuring-a-t-shirt-hanging-by-other-garments-at-a-store-3708-el1_2.png",
+        "price": "80.00",
+        "category": 4,
+        "is_active": true,
+        "is_featured": false,
+        "created_at": "2022-01-09T05:18:37.712Z",
+        "updated_at": "2022-01-09T05:18:37.712Z"
+    }
+},
+{
+    "model": "store.product",
+    "pk": 18,
+    "fields": {
+        "title": "Vertical Nan Pi Ho Jien Shirt",
+        "slug": "vertical-nan-pi-ho-jien-shirt",
+        "sku": "d3f4f",
+        "short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis risus ipsum, eu bibendum ex dapibus id.",
+        "detail_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis risus ipsum, eu bibendum ex dapibus id. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus varius augue dui, vitae eleifend lectus efficitur at. Pellentesque quis justo sapien. Nulla facilisis at leo fermentum bibendum. Donec ornare enim nisl, eget mollis ante elementum sed. Sed congue tellus quis fringilla pharetra. Nulla a malesuada dolor. Integer eget sem augue. Vestibulum scelerisque nibh nec odio scelerisque, non vestibulum odio malesuada. Nunc rhoncus semper tortor eu vestibulum. Duis efficitur purus nec efficitur condimentum. Duis viverra, mauris eget pulvinar rutrum, elit velit bibendum massa, vel sollicitudin metus risus quis risus.\r\n\r\nVestibulum ut venenatis felis. Suspendisse tristique eu ex nec bibendum. Phasellus ornare tristique lobortis. Suspendisse nec sem id massa semper pretium ut in odio. Sed vel purus in turpis vehicula commodo a nec magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque pellentesque sodales metus vitae aliquet. Phasellus at leo nec urna euismod vulputate. Phasellus lorem dolor, porta sit amet efficitur pellentesque, egestas efficitur ipsum. Fusce gravida lectus non iaculis sollicitudin. Integer pretium elit a elit venenatis egestas.",
+        "product_image": "product/mockup-featuring-a-customizable-t-shirt-on-a-mannequin-3704-el1_6.png",
+        "price": "80.00",
+        "category": 4,
+        "is_active": true,
+        "is_featured": true,
+        "created_at": "2022-01-09T05:19:49.056Z",
+        "updated_at": "2022-01-09T05:21:56.296Z"
+    }
+}
+]

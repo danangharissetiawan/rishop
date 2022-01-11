@@ -1,0 +1,58 @@
+[
+{
+    "model": "store.category",
+    "pk": 1,
+    "fields": {
+        "title": "Shoes",
+        "slug": "shoes",
+        "description": "Vestibulum ut venenatis felis. Suspendisse tristique eu ex nec bibendum. Phasellus ornare tristique lobortis. Suspendisse nec sem id massa semper pretium ut in odio. Sed vel purus in turpis vehicula commodo a nec magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+        "category_image": "category/gentlemans-fashion-flatlay.jpg",
+        "is_active": true,
+        "is_featured": true,
+        "created_at": "2022-01-09T04:50:27.815Z",
+        "updated_at": "2022-01-09T04:50:27.815Z"
+    }
+},
+{
+    "model": "store.category",
+    "pk": 2,
+    "fields": {
+        "title": "Watch",
+        "slug": "watch",
+        "description": "Vestibulum ut venenatis felis. Suspendisse tristique eu ex nec bibendum. Phasellus ornare tristique lobortis. Suspendisse nec sem id massa semper pretium ut in odio. Sed vel purus in turpis vehicula commodo a nec magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque pellentesque sodales metus vitae aliquet. Phasellus at leo nec urna euismod vulputate. Phasellus lorem dolor, porta sit amet efficitur pellentesque, egestas efficitur ipsum. Fusce gravida lectus non iaculis sollicitudin. Integer pretium elit a elit venenatis egestas.",
+        "category_image": "category/persons-wrist-wearing-a-smartwatch-which-shows-the-date.jpg",
+        "is_active": true,
+        "is_featured": true,
+        "created_at": "2022-01-09T04:58:18.819Z",
+        "updated_at": "2022-01-09T04:58:18.819Z"
+    }
+},
+{
+    "model": "store.category",
+    "pk": 3,
+    "fields": {
+        "title": "Ring",
+        "slug": "ring",
+        "description": "Sed hendrerit placerat orci eget consectetur. Quisque in eros sit amet velit tincidunt semper in id ligula. Sed dignissim risus ac tellus semper commodo. Nulla porttitor magna ut odio dignissim, ut luctus mauris feugiat. Cras ultrices suscipit velit, non congue erat hendrerit eu.",
+        "category_image": "category/wedding-vows-and-wedding-rings.jpg",
+        "is_active": true,
+        "is_featured": true,
+        "created_at": "2022-01-09T05:00:48.244Z",
+        "updated_at": "2022-01-09T05:10:37.954Z"
+    }
+},
+{
+    "model": "store.category",
+    "pk": 4,
+    "fields": {
+        "title": "Tshirt",
+        "slug": "tshirt",
+        "description": "Vestibulum ut venenatis felis. Suspendisse tristique eu ex nec bibendum. Phasellus ornare tristique lobortis. Suspendisse nec sem id massa semper pretium ut in odio. Sed vel purus in turpis vehicula commodo a nec magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque pellentesque sodales metus vitae aliquet. Phasellus at leo nec urna euismod vulputate. Phasellus lorem dolor, porta sit amet efficitur pellentesque, egestas efficitur ipsum. Fusce gravida lectus non iaculis sollicitudin. Integer pretium elit a elit venenatis egestas.",
+        "category_image": "category/mockup-featuring-a-t-shirt-hanging-by-other-garments-at-a-store-3708-el1_2.png",
+        "is_active": true,
+        "is_featured": true,
+        "created_at": "2022-01-09T05:02:37.197Z",
+        "updated_at": "2022-01-09T05:02:37.197Z"
+    }
+}
+]
