@@ -1,1 +1,1 @@
-web: gunicorn projek_uas_pbw.wsgi --log-file -
+web: gunicorn rishop.wsgi --log-file -
