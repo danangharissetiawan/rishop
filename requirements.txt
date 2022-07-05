@@ -2,7 +2,7 @@ asgiref==3.3.4
 certifi==2021.10.8
 charset-normalizer==2.0.10
 dj-database-url==0.5.0
-Django==3.2.12
+Django==3.2.13
 django-environ==0.8.1
 django-storages==1.12.3
 dropbox==11.25.0
